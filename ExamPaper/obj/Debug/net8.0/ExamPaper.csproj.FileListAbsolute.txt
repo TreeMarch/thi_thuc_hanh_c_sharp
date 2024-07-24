@@ -1,0 +1,14 @@
+C:\Users\Admin\RiderProjects\ExamPaper\ExamPaper\bin\Debug\net8.0\ExamPaper.exe
+C:\Users\Admin\RiderProjects\ExamPaper\ExamPaper\bin\Debug\net8.0\ExamPaper.deps.json
+C:\Users\Admin\RiderProjects\ExamPaper\ExamPaper\bin\Debug\net8.0\ExamPaper.runtimeconfig.json
+C:\Users\Admin\RiderProjects\ExamPaper\ExamPaper\bin\Debug\net8.0\ExamPaper.dll
+C:\Users\Admin\RiderProjects\ExamPaper\ExamPaper\bin\Debug\net8.0\ExamPaper.pdb
+C:\Users\Admin\RiderProjects\ExamPaper\ExamPaper\obj\Debug\net8.0\ExamPaper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\RiderProjects\ExamPaper\ExamPaper\obj\Debug\net8.0\ExamPaper.AssemblyInfoInputs.cache
+C:\Users\Admin\RiderProjects\ExamPaper\ExamPaper\obj\Debug\net8.0\ExamPaper.AssemblyInfo.cs
+C:\Users\Admin\RiderProjects\ExamPaper\ExamPaper\obj\Debug\net8.0\ExamPaper.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\ExamPaper\ExamPaper\obj\Debug\net8.0\ExamPaper.dll
+C:\Users\Admin\RiderProjects\ExamPaper\ExamPaper\obj\Debug\net8.0\refint\ExamPaper.dll
+C:\Users\Admin\RiderProjects\ExamPaper\ExamPaper\obj\Debug\net8.0\ExamPaper.pdb
+C:\Users\Admin\RiderProjects\ExamPaper\ExamPaper\obj\Debug\net8.0\ExamPaper.genruntimeconfig.cache
+C:\Users\Admin\RiderProjects\ExamPaper\ExamPaper\obj\Debug\net8.0\ref\ExamPaper.dll
